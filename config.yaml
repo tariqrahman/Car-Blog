@@ -1,4 +1,4 @@
-baseURL: 'http://example.org/'
+baseURL: 'https://zippy-chimera-0ef916.netlify.app/'
 languageCode: en-us
 title: Car Blog
 theme: PaperMod
