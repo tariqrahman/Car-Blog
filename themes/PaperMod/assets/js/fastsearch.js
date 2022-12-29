@@ -48,7 +48,7 @@ window.onload = function () {
             }
         }
     };
-    xhr.open("GET", "https://example.com/index.json");
+    xhr.open("GET", "https://zippy-chimera-0ef916.netlify.app/index.json");
 
     xhr.send();
 }
