@@ -10,7 +10,6 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -34,3 +33,7 @@ cover:
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
 --- 
+
+## Introduction
+
+On paper, the 992 GT3 doesn't exhibit a marginal bump in performance compared to the preceding 991 generation.

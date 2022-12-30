@@ -1,18 +1,20 @@
 baseURL: 'https://zippy-chimera-0ef916.netlify.app/'
 languageCode: en-us
-title: Car Blog
+title: TReviews
 theme: PaperMod
 
 params:
     homeInfoParams:
-        Title: Welcome!
-        Content: My name is Tariq Rahman
+        Title: Welcome to TReviews 🦖
+        Content: I write biased, blunt, & brilliant automotive reviews. Check 'em out below`:`
 
     socialIcons: # optional
         - name: "Github"
           url: "https://github.com/tariqrahman"
         - name: "Instagram"
           url: "https://www.instagram.com/tariqrahmann/"
+        - name: "Linkedin"
+          url: "https://www.linkedin.com/in/tariq-rahman-56a684187/"
 
 outputs:
   home:
