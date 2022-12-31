@@ -4,9 +4,22 @@ title: TReviews
 theme: PaperMod
 
 params:
-    homeInfoParams:
-        Title: Welcome to TReviews 🦖
-        Content: I write biased, blunt, & brilliant automotive reviews. Check 'em out below`:`
+    profileMode:
+        enabled: true
+        title: "Welcome to TReviews 🦖" # optional default will be site title
+        subtitle: "Check out my collection of biased automotive reviews"
+        # imageUrl: "https://i.ibb.co/pL7qTkx/IMG-9850.jpg" # optional
+        imageWidth: 120 # custom size
+        imageHeight: 120 # custom size
+        buttons:
+            - name: Posts
+              url: "/posts"
+            - name: T-Term
+              url: "https://tariqrahmansite.vercel.app/"
+
+    # homeInfoParams:
+    #     Title: Welcome to TReviews 🦖
+    #     Content: I write biased, blunt, & brilliant automotive reviews. Check 'em out below`:`
 
     socialIcons: # optional
         - name: "Github"
