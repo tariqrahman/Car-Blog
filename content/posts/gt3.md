@@ -36,6 +36,19 @@ cover:
 
 ## Introduction
 
-As the automotive scene shifts to an era in which autonomy and sustainability rule consumerism, the scope of tasteful modern production vehicles has diminished. Ironically, Porsche refuses to take their foot off the gas, producing yet another immaculate generation of the 911 GT3. Unlike the track-oriented GT3RS, the GT3 aims to strike the sweet spot between both the road and track— and it does just that.
+As the automotive scene shifts to an era in which autonomy and sustainability rule consumerism, the scope of tasteful modern production vehicles has diminished. Ironically, Porsche refuses to take their foot off the gas, producing yet another immaculate generation of the 911 GT3. In the remainder of this post, we'll seek to determine whether the 992 GT3 lives up to the fame of its predeccesors. 
 
-Even so, competition remains steep 
+## Statistics / Data
+
+Check out some general data detailing key differences between the 991 & 992 GT3:
+
+| Stat Type &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    | 991 GT3  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;     | 992 GT3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    |
+| ------------ | ------------ | ------------ |
+| Horsepower   | 476           | 502 hp      |
+| Torque       | 324 lb-ft     | 346 lb-ft   |
+| 0-60 mph     | 3.4s          | 3.2s        |
+| 1/4 Mile     | 11.2 s        | 10.9s       |
+| Top Speed    | 196 mph       | 197 mph     |
+
+
+For reference, the 991 statistics are based on the 2016-2019 facelift version of the GT3.
