@@ -36,4 +36,6 @@ cover:
 
 ## Introduction
 
-On paper, the 992 GT3 doesn't exhibit a marginal bump in performance compared to the preceding 991 generation.
+As the automotive scene shifts to an era in which autonomy and sustainability rule consumerism, the scope of tasteful modern production vehicles has diminished. Ironically, Porsche refuses to take their foot off the gas, producing yet another immaculate generation of the 911 GT3. Unlike the track-oriented GT3RS, the GT3 aims to strike the sweet spot between both the road and track— and it does just that.
+
+Even so, competition remains steep 
