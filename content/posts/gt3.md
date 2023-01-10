@@ -68,11 +68,11 @@ Now, the good stuff. Rather than sticking to the 3.0-liter engine running the re
 
 Given I can't take this beauty for a spin myself, I'll refer to MotorTrend's review for a more detailed Pro / Con list.
 
-| Pros | Cons |
-| ---- | ---- |
-| Impeccable Handling | Somewhat Overkill For Street Driving |
+| Pros                               | Cons                             |
+| ---------------------------------- | -------------------------------- |
+| Impeccable Handling |     Somewhat Overkill For Street Driving        |
 | World Class Engine + Transmission Combination | Suspect Ride Quality  |
-| Music To My Ears | Absurd Markup Pricing |
+| Music To My Ears                   | Absurd Markup Pricing            |
 ## Personal Take
 
 As a college student, my only experience behind the wheel of a GT3 lies in my dreams. Still, the announcment for this generation caught my eye more than any competitor of its class. The subtle yet distinct changes to the classic chassy perfectly transition into the more sharp body lines of the modern automobile era. Though many prefer the subtle look of the touring rear, the statement made by the flashy spoiler make it known that Porsche doens't reserve super car performance and aesthetic solely for the RS. And of course, Porsche's notoriety for producing top tier handling goes without saying. Despite this being a bucket list car for myself, my review lines up nearly identically with those of professional automotive critics who pride themselves on objectivity. Whether or not you buy the praise, don't waste your time spec-ing one out. If you can get past the lengthy waitlist, you'll be stuck stuck dropping an extra $100k in markup value alone. Check out my unattainable personal spec below:
