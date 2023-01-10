@@ -7,7 +7,7 @@ params:
     profileMode:
         enabled: true
         title: "Welcome to TReviews 🦖" # optional default will be site title
-        subtitle: "Check out my collection of biased automotive reviews"
+        subtitle: "A collection of biased automotive reviews"
         # imageUrl: "https://i.ibb.co/pL7qTkx/IMG-9850.jpg" # optional
         imageWidth: 120 # custom size
         imageHeight: 120 # custom size

@@ -83,7 +83,7 @@ As a college student, my only experience behind the wheel of a GT3 lies in my dr
 
 ![Side View](https://pics.porsche.com/rtt/iris?COSY-EU-100-1713c6eK12UC31P3T5JOCU%25hjdmiTDDmvMXlHWguCuq6Q44RtRHo9ZAaDjau5PwI7tGW3rNbZJNKXv9L7KcQQ%25yFN5tFAsXrw4r3wo0qnqZr8MCnR4i84tV2YN2OmNyW1QGWgCWKMUuyO9YP60Kkb4WTQCboaifRX0DyAYTsJetMBtUSkbFIAYCLfilPoLjQHnv38g2E4wSucL3eX8dGwEEEeq3ZhLRUw0iGVA5yqFmlmkMXbH0Mh%25O2w8Pjschf1xJdVDyzptogL7KFfYDPfgotH43LU0PP1BIStASKk2fJFXgyxc0fdp4Z09qk7F)
 
-Pictured: 2023 Gulf Blue 992 GT3 
+Pictured: 2023 Gulf Blue 992 GT3
 
 
 
