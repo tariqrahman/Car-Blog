@@ -34,3 +34,5 @@ For more specific questions, reference previous post source code or check out [P
 ## Publishing Content
 
 To create a stable deployment pipeline, any content drafted for publishing should be pushed to the remote dev branch. From here, simply create a pull request. Once merged to main, Netlify will automatically redeploy the site with relevant changes.
+
+Check out the current deployment  @ [treviews.com](https://trexreviews.com/)
